@@ -1,0 +1,3 @@
+"ShipmentManager.py" is designed to take a list of numbers from the "ScannedTickets.xlsx"
+and compare it to a main database called "worldship.csv" and it reterns all the data
+that is stored in the numbers entered in the "ScannedTickets.xlsx" file.
